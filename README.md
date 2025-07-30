@@ -1,5 +1,5 @@
 # Dataset-indoor-OPVs
 1. This dataset includes 128 subsets of data, derived from various combinations of 31 donor materials and 32 acceptor materials.
 2. The jupyterlab book shows the codes for building machine learning (ML) models using the dataset. The ML models include support vector regression (SVR), random forests (RF), k-nearest neighbors (KNN), and artificial neural networks (ANN).
-3. A research article, “Computational Modeling of Indoor Organic Photovoltaics: Dataset Curation, Predictive Analysis, and Machine Learning Approaches” using the dataset to build ML models will be published in the journal, "Archives of Computational Methods in Engineering".
+3. A research article, “Computational Modeling of Indoor Organic Photovoltaics: Dataset Curation, Predictive Analysis, and Machine Learning Approaches” using the dataset to build ML models is published in the journal, "Archives of Computational Methods in Engineering". https://doi.org/10.1007/s11831-025-10310-y
 
